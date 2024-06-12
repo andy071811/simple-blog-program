@@ -1,0 +1,1 @@
+A simple blog project with help from 'RaddyTheBrand'
